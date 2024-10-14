@@ -7,3 +7,4 @@ I'm currently a student learning Computer Science!🖥️
     - Unfortuntely my Data analytic's learning is on hold for abit, as im currently learning Web-App development.
     - All my progress will be tracked via Roadmaps
     - [![roadmap.sh](https://roadmap.sh/card/tall/66a1611923c186c28d5aa5ad?variant=dark&roadmaps=data-analyst%2Cpython)](https://roadmap.sh)
+    - [![roadmap.sh](https://roadmap.sh/card/tall/66a1611923c186c28d5aa5ad?variant=dark&roadmaps=react%2Cjavascript%2Cpostgresql-dba%2Cnodejs)](https://roadmap.sh)
